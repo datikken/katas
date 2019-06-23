@@ -12,7 +12,6 @@
 
 //cakes({flour: 500, sugar: 200, eggs: 1}, {flour: 1200, sugar: 1200, eggs: 5, milk: 200}); 
 
-
 function cakes(recipe, available) {
     console.log("recipe", recipe);
     console.log("available ingredients: ", available);
